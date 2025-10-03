@@ -1,0 +1,6 @@
+команды для регистрации ваших данных
+git congif --global user.name "Syimyk2343"
+git config --global user.email "syimykmirlanov9@gmail.com"
+команды для раз на проект
+git init  | команда для инициализации репозитория
+git remote add origin https://github.com/Syimyk2342/OOP-59.git | Команда для добавление пше
