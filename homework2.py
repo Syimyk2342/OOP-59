@@ -9,7 +9,7 @@ class Transport:
 
 class Car(Transport):
     def __init__(self, brand, speed):
-        super().__init__(speed)   # вызываем конструктор родителя
+        super().__init__(speed)  
         self.brand = brand
 
     def move(self):
